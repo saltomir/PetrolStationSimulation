@@ -1,0 +1,7 @@
+H:\My Documents\Development\IntroductiontoProgramming\Sem2\PetrolStationAssessment\PetrolStationAssessment\obj\Debug\PetrolStationAssessment.csprojResolveAssemblyReference.cache
+H:\My Documents\Development\IntroductiontoProgramming\Sem2\PetrolStationAssessment\PetrolStationAssessment\obj\Debug\PetrolStationAssessment.csproj.CoreCompileInputs.cache
+H:\My Documents\Development\IntroductiontoProgramming\Sem2\PetrolStationAssessment\PetrolStationAssessment\bin\Debug\PetrolStationAssessment.exe.config
+H:\My Documents\Development\IntroductiontoProgramming\Sem2\PetrolStationAssessment\PetrolStationAssessment\bin\Debug\PetrolStationAssessment.exe
+H:\My Documents\Development\IntroductiontoProgramming\Sem2\PetrolStationAssessment\PetrolStationAssessment\bin\Debug\PetrolStationAssessment.pdb
+H:\My Documents\Development\IntroductiontoProgramming\Sem2\PetrolStationAssessment\PetrolStationAssessment\obj\Debug\PetrolStationAssessment.exe
+H:\My Documents\Development\IntroductiontoProgramming\Sem2\PetrolStationAssessment\PetrolStationAssessment\obj\Debug\PetrolStationAssessment.pdb
